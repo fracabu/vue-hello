@@ -12,8 +12,6 @@ const appVue = new Vue({
 	// Conterrà una serie di funzioni
 	methods: {
 		// funzioni che useremo nell'app
-		function(){
-			this.image = 
-		}
+		
 	}
 });
